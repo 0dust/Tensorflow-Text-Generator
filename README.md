@@ -1,6 +1,7 @@
 # Tensorflow-Text-Generator
-# Usage
-To train the model you can set the textfile you want to use to train the model by using command line:
+This code uses LSTM neural networks in tensorflow to generate text.
+## Usage
+For training the model you can set the textfile you want to use by using command line.
 
 For training the network run:
 
